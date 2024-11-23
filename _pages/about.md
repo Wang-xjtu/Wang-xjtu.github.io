@@ -58,7 +58,7 @@ My research interest includes computer vision, 3D vision, multi-model vision, an
 
 **Haotian Wang**, Meng Yang, Ce Zhu, Nanning Zheng
 
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> This work aims to eliminate large erroneous regions in depth maps captured by low-cost depth sensors, without relying on pre-prepared training datasets. We propose an optimization-based approach utilizing a fully connected conditional random field (dense CRF) model to effectively combine local and global contexts from RGB-D pairs in a coarse-to-fine manner. This method achieves superior depth recovery, outperforming even learning-based techniques. [**Project Page**](https://github.com/Wang-xjtu/C2F-DenseCRF-Depth)
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> This work aims to effectively eliminate large erroneous regions in depth maps captured by low-cost depth sensors without any training data. It is achieved by an optimization-based approach that employs a fully connected conditional random field (dense CRF) model to integrate local and global contexts from RGB-D pairs in a coarse-to-fine manner, achieving superior depth recovery even compared to learning-based techniques. [**Project Page**](https://github.com/Wang-xjtu/C2F-DenseCRF-Depth)
 </div>
 </div>
 
