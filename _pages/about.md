@@ -34,7 +34,7 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
 
 [Scale Propagation Network for Generalizable Depth Completion](https://arxiv.org/abs/2410.18408)
 
-**Haotian Wang**, Meng Yang, Xinhu Zheng, Gang Hua
+**Haotian Wang**, Meng Yang, et al.
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> SPNet is the first to carefully analyze the significance of scale propagation property in generalizable depth completion. To satisfy this property, we introduce SP-Norm, a novel normalization layer that enhances generalizability and ensures efficient convergence. Coupled with our insights for ConvNeXt V2, SPNet achieves impressive generalization across a wide range of unseen scenarios. [**Project Page**](https://github.com/Wang-xjtu/SPNet)
 </div>
