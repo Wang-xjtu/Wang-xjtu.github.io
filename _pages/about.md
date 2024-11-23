@@ -37,8 +37,9 @@ My research interest includes computer vision, 3D vision, multi-model vision, an
 **Haotian Wang**, Meng Yang, Xinhu Zheng, Gang Hua
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> SPNet is the first to thoroughly analyze the significance of scale-propagation in generalizable depth completion. It introduces SP-Norm, a novel normalization layer that enhances generalizability and ensures efficient convergence, leading to impressive generalization across diverse unseen scenarios. [**Project Page**](https://github.com/Wang-xjtu/SPNet)
-</div>
-</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/G2-MonoDepth.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 [G2-MonoDepth: A General Framework of Generalized Depth Map Inference from Monocular RGB-X Data](https://ieeexplore.ieee.org/abstract/document/10373158)
 
 **Haotian Wang**, Meng Yang, Nanning Zheng
