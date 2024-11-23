@@ -84,7 +84,7 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
 - *2024.01*, Academic star of the [IAIR](http://www.aiar.xjtu.edu.cn/) (Top 1%), XJTU.
 - *2023.10*, Academic Scholarship (Top 5%, 1st Place), XJTU.
 - *2023.10*, Qianheng Huang Scholarship, XJTU.
-- *2023.07*, Joint Ph.D. Scholarship, China Scholarship Council.
+- *2023.07*, Joint Ph.D. Scholarship, China Scholarship Council (CSC).
 - *2023.07*, Invited oral presenter, XJTU.
 - *2015.11*, College Scholarship, [NCEPU](https://english.ncepu.edu.cn/).
 
