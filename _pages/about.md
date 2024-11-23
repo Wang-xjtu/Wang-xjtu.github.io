@@ -78,9 +78,9 @@ My research interest includes computer vision, 3D vision, multi-model vision, an
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2021.09 - 2025.06 (now)*, Ph.D., College of Artificial Intelligence, Xi’an Jiaotong University, China. 
-- *2023.12 - 2024.12*, Joint Ph.D., College of Computing and Data Science, Nanyang Technological University, Singapore.
-- *2013.09 - 2017.06*, B.S., School of Electrical and Electronic Engineering, North China Electric Power University, China.
+- *2021.09 - 2025.06*, **Ph.D.**, College of Artificial Intelligence, Xi’an Jiaotong University, China. 
+- *2023.12 - 2024.12*, **Joint Ph.D.**, College of Computing and Data Science, Nanyang Technological University, Singapore.
+- *2013.09 - 2017.06*, **B.S**., School of Electrical and Electronic Engineering, North China Electric Power University, China.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
