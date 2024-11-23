@@ -29,7 +29,7 @@ My research interest includes computer vision, 3D vision, multi-model vision, an
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024 (major revision)</div><img src='images/SPNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2024 (major revision)</div><img src='images/SPNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Scale Propagation Network for Generalizable Depth Completion](https://arxiv.org/abs/2410.18408)
@@ -40,7 +40,7 @@ My research interest includes computer vision, 3D vision, multi-model vision, an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/G2-monodepth.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2024</div><img src='images/G2-monodepth.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [G2-MonoDepth: A General Framework of Generalized Depth Map Inference from Monocular RGB-X Data](https://ieeexplore.ieee.org/abstract/document/10373158)
@@ -48,6 +48,17 @@ My research interest includes computer vision, 3D vision, multi-model vision, an
 **Haotian Wang**, Meng Yang, Nanning Zheng
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> G2-MonoDepth investigated a unified task of single-view depth inference for various robots, which may be equipped with a range of sensors, such as cameras, LiDAR, ToF, or their combinations, and operate in diverse indoor and outdoor environments. Our work introduced a general and generalized framework to tackle this challenge by exploring data preparation, network architecture, and loss function. [**Project Page**](https://github.com/Wang-xjtu/G2-MonoDepth)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-IP 2023</div><img src='images/CRF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[RGB-Guided Depth Map Recovery by Two-Stage Coarse-to-Fine Dense CRF Models](https://ieeexplore.ieee.org/abstract/document/10043681)
+
+**Haotian Wang**, Meng Yang, Ce Zhu, Nanning Zheng
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> This work aims to eliminate large erroneous regions in depth maps captured by low-cost depth sensors, without relying on pre-prepared training datasets. We propose an optimization-based approach utilizing a fully connected conditional random field (dense CRF) model to effectively combine local and global contexts from RGB-D pairs in a coarse-to-fine manner. This method achieves superior depth recovery, outperforming even learning-based techniques. [**Project Page**](https://github.com/Wang-xjtu/C2F-DenseCRF-Depth)
 </div>
 </div>
 
