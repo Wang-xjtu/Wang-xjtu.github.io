@@ -40,7 +40,7 @@ My research interest includes computer vision, 3D vision, multi-model vision, an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/G2-MonoDepth.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/G2-monodepth.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [G2-MonoDepth: A General Framework of Generalized Depth Map Inference from Monocular RGB-X Data](https://ieeexplore.ieee.org/abstract/document/10373158)
