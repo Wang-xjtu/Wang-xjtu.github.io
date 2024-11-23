@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haotian Wang   (王昊天)"
+title                    : "Haotian Wang"
 description              : "PhD Candidate at XJTU. Focusing on Computer Vision and 3D Vision."
 repository               : "Wang-xjtu/Wang-xjtu.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Haotian Wang"
+  name             : "Haotian Wang   (王昊天)"
   avatar           : "images/haotian.png"
   bio              : "Xi’an Jiaotong University (XJTU)"
   location         : "Xi'an, China"
