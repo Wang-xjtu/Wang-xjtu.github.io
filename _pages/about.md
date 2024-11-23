@@ -89,7 +89,11 @@ My research interest includes computer vision, 3D vision, multi-model vision, an
 - *2015.11* College Scholarship, [NCEPU](https://english.ncepu.edu.cn/)
 
 # 📕 Patents
-- *2024*, M. Yang*, **H. Wang**, and N. Zheng, "Zero-Shot Depth Completion Based on Scale Propagation Normalization Layer: Method and System", *China Patent*, 2023101807430. 
+- *2024*, M. Yang\*, **H. Wang**, and N. Zheng, "Zero-Shot Depth Completion Based on Scale Propagation Normalization Layer: Method and System", *China Patent*, 2023101807430.
+- *2023* M. Yang\*, **H. Wang**, and N. Zheng, "Generalizable Depth Map Inference with Single-View: Method and System," *China Patent*, 2023101807430.
+- *2021* M. Yang\*, **H. Wang**, and N. Zheng, "Depth Map Structure Restoration Method Based on the Fully Connected Conditional Random Field Model," *China Patent*, ZL202111057715.2.
+- *2020* M. Yang\*, **H. Wang**, and N. Zheng, "An Iterative Method of Depth Map Structure Restoration based on Structural Similarity between RGB and Depth," *China Patent*, ZL200010007508.X.
+(\* denotes supervisor)
 
 # 🔨 Projects
 - *2022.12 - 2025.12*, Core member, "A General Model of Single-View 3D Perception for Multi-Modal Autonomous Agents", National Natural Science Foundation of China
