@@ -93,6 +93,7 @@ My research interest includes computer vision, 3D vision, multi-model vision, an
 - *2023* M. Yang\*, **H. Wang**, and N. Zheng, "Generalizable Depth Map Inference with Single-View: Method and System," *China Patent*, 2023101807430.
 - *2021* M. Yang\*, **H. Wang**, and N. Zheng, "Depth Map Structure Restoration Method Based on the Fully Connected Conditional Random Field Model," *China Patent*, ZL202111057715.2.
 - *2020* M. Yang\*, **H. Wang**, and N. Zheng, "An Iterative Method of Depth Map Structure Restoration based on Structural Similarity between RGB and Depth," *China Patent*, ZL200010007508.X.
+
 (\* denotes supervisor)
 
 # 🔨 Projects
