@@ -80,7 +80,7 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
 
 # 🎖 Honors and Awards
 - *2024.10*, Outstanding graduate students, XJTU.
-- *2024.09*, Baosheng Hu Scholarship (1st Place), XJTU.
+- *2024.09*, Baosheng Hu Scholarship (Top 5%, 1st Place), XJTU.
 - *2024.01*, Academic star of the [IAIR](http://www.aiar.xjtu.edu.cn/) (Top 1%), XJTU.
 - *2023.10*, Academic Scholarship (Top 5%, 1st Place), XJTU.
 - *2023.10*, Qianheng Huang Scholarship, XJTU.
