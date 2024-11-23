@@ -78,7 +78,7 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
 - *2023.12 - 2024.12*, *Joint Ph.D.*, College of Computing and Data Science, Nanyang Technological University, Singapore.
 - *2013.09 - 2017.06*, *B.S.*, School of Electrical and Electronic Engineering, North China Electric Power University, China.
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2024.10*, Outstanding Graduate Student, XJTU.
 - *2024.09*, Baosheng Hu Scholarship (Top 5%, 1st Place), XJTU.
 - *2024.01*, Academic Star of the [IAIR](http://www.aiar.xjtu.edu.cn/) (Top 1%), XJTU.
