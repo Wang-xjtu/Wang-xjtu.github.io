@@ -95,5 +95,5 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
 - *2020*, Meng Yang\*, **Haotian Wang**, and Nanning Zheng, "An Iterative Method of Depth Map Structure Restoration based on Structural Similarity between RGB and Depth," *China Patent*, ZL200010007508.X.
 
 # 🔨 Projects
-- *2022.12 - 2025.12*, *Core Member*, "A General Model of Single-View 3D Perception for Multi-Modal Autonomous Agents", National Natural Science Foundation of China.
-- *2022.01 - 2023. 12*, *Project Leader*, "A General Depth Perception Model", Research Foundation of XJTU.
+- *2022.12 - 2025.12*, *Core Member*, "A General Model of Single-View 3D Perception for Multi-Modal Autonomous Agents", The National Natural Science Foundation of China.
+- *2022.01 - 2023. 12*, *Project Leader*, "A General Depth Perception Model", The Basic Research Foundation of XJTU.
