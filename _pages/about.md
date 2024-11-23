@@ -74,7 +74,7 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
 </div>
 
 # 📖 Educations
-- *2021.09 - 2025.06*, Ph.D., College of Artificial Intelligence, Xi’an Jiaotong University, China. 
+- *2019.09 - 2025.06*, Ph.D., College of Artificial Intelligence, Xi’an Jiaotong University, China. 
 - *2023.12 - 2024.12*, Joint Ph.D., College of Computing and Data Science, Nanyang Technological University, Singapore.
 - *2013.09 - 2017.06*, B.S., School of Electrical and Electronic Engineering, North China Electric Power University, China.
 
