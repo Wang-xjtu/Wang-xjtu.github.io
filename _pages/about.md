@@ -25,7 +25,7 @@ My research interest includes computer vision, 3D vision, multi-model vision, an
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 I've created my academic homepage. 
+- *2024.11*: &nbsp;🎉🎉 I've created my academic homepage. (In preparation) 
 
 # 📝 Publications 
 
@@ -39,6 +39,11 @@ My research interest includes computer vision, 3D vision, multi-model vision, an
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> SPNet is the first to thoroughly analyze the significance of scale-propagation in generalizable depth completion. It introduces SP-Norm, a novel normalization layer that enhances generalizability and ensures efficient convergence, leading to impressive generalization across diverse unseen scenarios. [**Project Page**](https://github.com/Wang-xjtu/SPNet)
 </div>
 </div>
+[G2-MonoDepth: A General Framework of Generalized Depth Map Inference from Monocular RGB-X Data](https://ieeexplore.ieee.org/abstract/document/10373158)
+
+**Haotian Wang**, Meng Yang, Nanning Zheng
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> G2-MonoDepth investigated a unified task of single-view depth inference for various robots, which may be equipped with a range of sensors, such as cameras, LiDAR, ToF, or their combinations, and operate in diverse indoor and outdoor environments. Our work introduces a general and generalized framework designed to tackle these challenging scenarios by thoroughly exploring data preparation, network design, and loss function optimization. [**Project Page**](https://github.com/Wang-xjtu/G2-MonoDepth)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
