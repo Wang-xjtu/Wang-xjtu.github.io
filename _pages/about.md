@@ -73,18 +73,19 @@ My research interest includes computer vision, 3D vision, multi-model vision, an
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Educations
-- *2021.09 - 2025.06*, **Ph.D.**, College of Artificial Intelligence, Xi’an Jiaotong University, China. 
-- *2023.12 - 2024.12*, **Joint Ph.D.**, College of Computing and Data Science, Nanyang Technological University, Singapore.
-- *2013.09 - 2017.06*, **B.S**., School of Electrical and Electronic Engineering, North China Electric Power University, China.
+- *2021.09 - 2025.06*, Ph.D., College of Artificial Intelligence, Xi’an Jiaotong University, China. 
+- *2023.12 - 2024.12*, Joint Ph.D., College of Computing and Data Science, Nanyang Technological University, Singapore.
+- *2013.09 - 2017.06*, B.S., School of Electrical and Electronic Engineering, North China Electric Power University, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🎖 Honors and Awards
+- *2024.10* Outstanding graduate students, XJTU.
+- *2024.09* Baosheng Hu Scholarship (1st Place), XJTU
+- *2024.01* Academic star of the [IAIR](http://www.aiar.xjtu.edu.cn/) (Top 1%), XJTU
+- *2023.10* Academic Scholarship (Top 5%, 1st Place), XJTU
+- *2023.10* Qianheng Huang Scholarship, XJTU
+- *2023.07* Invited oral presenter, XJTU
+- *2015.11* College Scholarship, [NCEPU](https://english.ncepu.edu.cn/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
