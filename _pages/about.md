@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD candidate at the [National Key Laboratory of Human-Machine Hybrid Augmented Intelligence](http://www.aiar.xjtu.edu.cn/), [Xi’an Jiaotong University](http://en.xjtu.edu.cn/), China, under the supervision of [Prof. Meng Yang](https://gr.xjtu.edu.cn/en/web/mengyang). I am also a joint Ph.D student at the [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Nanyang Technological University, Singapore, supervised by [Prof. Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/). I earned my bachelor's degree from the School of Electrical and Electronic Engineering at [North China Electric Power University](https://english.ncepu.edu.cn/)
+I am a PhD candidate at the [National Key Laboratory of Human-Machine Hybrid Augmented Intelligence](http://www.aiar.xjtu.edu.cn/), [Xi’an Jiaotong University](http://en.xjtu.edu.cn/), China, under the supervision of [Prof. Meng Yang](https://gr.xjtu.edu.cn/en/web/mengyang). I am also a joint Ph.D student at the [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Nanyang Technological University, Singapore, supervised by [Prof. Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/).
 
 My research interest includes computer vision, 3D vision, multi-model vision, and scene depth perception.
 
