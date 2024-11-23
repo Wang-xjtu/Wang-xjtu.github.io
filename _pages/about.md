@@ -93,4 +93,4 @@ My research interest includes computer vision, 3D vision, multi-model vision, an
 
 # 🔨 Projects
 - *2022.12 - 2025.12*, Core member, "A General Model of Single-View 3D Perception for Multi-Modal Autonomous Agents", National Natural Science Foundation of China
-- *2022.01 - 2023. 12* Project leader, "A General Depth Perception Model", Research Foundation of XJTU
+- *2022.01 - 2023. 12*, Project leader, "A General Depth Perception Model", Research Foundation of XJTU
