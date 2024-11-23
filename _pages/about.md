@@ -34,14 +34,12 @@ My research interest includes computer vision, 3D vision, multi-model vision, an
 
 [Scale Propagation Network for Generalizable Depth Completion](https://arxiv.org/abs/2410.18408)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Haotian Wang**, Meng Yang, Xinhu Zheng, Gang Hua
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project Page**](https://github.com/Wang-xjtu/SPNet) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- SPNet is the first to thoroughly analyze the significance of scale-propagation in generalizable depth completion. It introduces SP-Norm, a novel normalization layer that enhances generalizability and ensures efficient convergence, leading to impressive generalization across diverse unseen scenarios.
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
