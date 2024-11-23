@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD candidate at the [National Key Laboratory of Human-Machine Hybrid Augmented Intelligence](http://www.aiar.xjtu.edu.cn/), the College of Artificial Intelligence, Xi’an Jiaotong University (西安交通大学人工智能学院), China, under the supervision of [Prof. Meng Yang](https://gr.xjtu.edu.cn/en/web/mengyang). I am also a joint Ph.D student at the [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Nanyang Technological University (南洋理工大学计算与数据科学学院), Singapore, supervised by [Prof. Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/).
+I am a Ph.D. candidate at the [National Key Laboratory of Human-Machine Hybrid Augmented Intelligence](http://www.aiar.xjtu.edu.cn/), the College of Artificial Intelligence, Xi’an Jiaotong University (西安交通大学人工智能学院), China, under the supervision of [Prof. Meng Yang](https://gr.xjtu.edu.cn/en/web/mengyang). I am also a joint Ph.D. student at the [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Nanyang Technological University (南洋理工大学计算与数据科学学院), Singapore, supervised by [Prof. Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/).
 
 My research interests include computer vision, 3D vision, multi-modal vision, and scene depth perception. I aim to develop advanced techniques that enable autonomous agents to perceive real-world environments, particularly in dynamic and open settings.
 
