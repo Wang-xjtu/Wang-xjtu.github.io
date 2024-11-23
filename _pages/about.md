@@ -36,7 +36,7 @@ My research interest includes computer vision, 3D vision, multi-model vision, an
 
 **Haotian Wang**, Meng Yang, Xinhu Zheng, Gang Hua
 
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> SPNet is the first to thoroughly analyze the significance of scale-propagation in generalizable depth completion. It introduces SP-Norm, a novel normalization layer that enhances generalizability and ensures efficient convergence, leading to impressive generalization across diverse unseen scenarios. [**Project Page**](https://github.com/Wang-xjtu/SPNet)
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> SPNet is the first to carefully analyze the significance of scale propagation property in generalizable depth completion. To satisfy this property, we introduce SP-Norm, a novel normalization layer that enhances generalizability and ensures efficient convergence. Coupled with our insights for ConvNeXt V2, SPNet achieves impressive generalization across a wide range of unseen scenarios. [**Project Page**](https://github.com/Wang-xjtu/SPNet)
 </div>
 </div>
 
@@ -47,7 +47,7 @@ My research interest includes computer vision, 3D vision, multi-model vision, an
 
 **Haotian Wang**, Meng Yang, Nanning Zheng
 
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> G2-MonoDepth investigated a unified task of single-view depth inference for various robots, which may be equipped with a range of sensors, such as cameras, LiDAR, ToF, or their combinations, and operate in diverse indoor and outdoor environments. Our work introduced a general and generalized framework to tackle this challenge by exploring data preparation, network architecture, and loss function. [**Project Page**](https://github.com/Wang-xjtu/G2-MonoDepth)
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> G2-MonoDepth investigated a novel unified task of single-view depth inference for various robots, which may be equipped with a range of sensors, such as cameras, LiDAR, ToF, or their combinations, and operate in diverse indoor and outdoor environments. Our work introduced a general and generalized framework to tackle this challenge by exploring data preparation, network architecture, and loss function. [**Project Page**](https://github.com/Wang-xjtu/G2-MonoDepth)
 </div>
 </div>
 
