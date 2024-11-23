@@ -91,7 +91,7 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
 # 📕 Patents
 - *2024*, Meng Yang\*, **Haotian Wang**, and Nanning Zheng, "Zero-Shot Depth Completion Based on Scale Propagation Normalization Layer: Method and System", *China Patent*, 2023101807430.
 - *2023*, Meng Yang\*, **Haotian Wang**, and Nanning Zheng, "Generalizable Depth Map Inference with Single-View: Method and System," *China Patent*, 2023101807430.
-- *2021*, Meng Yang\*, **Haotian Wang**, and Nanning Zheng, "Depth Map Structure Restoration Method Based on the Fully Connected Conditional Random Field Model," *China Patent*, ZL202111057715.2.
+- *2021*, Meng Yang\*, **Haotian Wang**, and Nanning Zheng, "Depth Map Structure Restoration Method based on the Fully Connected Conditional Random Field Model," *China Patent*, ZL202111057715.2.
 - *2020*, Meng Yang\*, **Haotian Wang**, and Nanning Zheng, "An Iterative Method of Depth Map Structure Restoration based on Structural Similarity between RGB and Depth," *China Patent*, ZL200010007508.X.
 
 # 🔨 Projects
