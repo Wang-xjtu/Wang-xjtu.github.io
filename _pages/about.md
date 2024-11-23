@@ -25,7 +25,7 @@ My research interest includes computer vision, 3D vision, multi-model vision, an
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 I've created my academic homepage. (In preparation) 
+- *2024.11*: &nbsp;🎉🎉 I've created my academic homepage.
 
 # 📝 Publications 
 
