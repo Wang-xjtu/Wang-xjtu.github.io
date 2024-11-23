@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haotian Wang  (王昊天)"
+title                    : "Haotian Wang   (王昊天)"
 description              : "PhD Candidate at XJTU. Focusing on Computer Vision and 3D Vision."
 repository               : "Wang-xjtu/Wang-xjtu.github.io"
 google_scholar_stats_use_cdn : true
