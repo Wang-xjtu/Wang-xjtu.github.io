@@ -79,22 +79,20 @@ My research interest includes computer vision, 3D vision, multi-model vision, an
 - *2013.09 - 2017.06*, B.S., School of Electrical and Electronic Engineering, North China Electric Power University, China.
 
 # 🎖 Honors and Awards
-- *2024.10* Outstanding graduate students, XJTU
-- *2024.09* Baosheng Hu Scholarship (1st Place), XJTU
-- *2024.01* Academic star of the [IAIR](http://www.aiar.xjtu.edu.cn/) (Top 1%), XJTU
-- *2023.10* Academic Scholarship (Top 5%, 1st Place), XJTU
-- *2023.10* Qianheng Huang Scholarship, XJTU
-- *2023.07* Joint Ph.D. Scholarship, China Scholarship Council
-- *2023.07* Invited oral presenter, XJTU
-- *2015.11* College Scholarship, [NCEPU](https://english.ncepu.edu.cn/)
+- *2024.10*, Outstanding graduate students, XJTU
+- *2024.09*, Baosheng Hu Scholarship (1st Place), XJTU
+- *2024.01*, Academic star of the [IAIR](http://www.aiar.xjtu.edu.cn/) (Top 1%), XJTU
+- *2023.10*, Academic Scholarship (Top 5%, 1st Place), XJTU
+- *2023.10*, Qianheng Huang Scholarship, XJTU
+- *2023.07*, Joint Ph.D. Scholarship, China Scholarship Council
+- *2023.07*, Invited oral presenter, XJTU
+- *2015.11*, College Scholarship, [NCEPU](https://english.ncepu.edu.cn/)
 
 # 📕 Patents
-- *2024*, M. Yang\*, **H. Wang**, and N. Zheng, "Zero-Shot Depth Completion Based on Scale Propagation Normalization Layer: Method and System", *China Patent*, 2023101807430.
-- *2023* M. Yang\*, **H. Wang**, and N. Zheng, "Generalizable Depth Map Inference with Single-View: Method and System," *China Patent*, 2023101807430.
-- *2021* M. Yang\*, **H. Wang**, and N. Zheng, "Depth Map Structure Restoration Method Based on the Fully Connected Conditional Random Field Model," *China Patent*, ZL202111057715.2.
-- *2020* M. Yang\*, **H. Wang**, and N. Zheng, "An Iterative Method of Depth Map Structure Restoration based on Structural Similarity between RGB and Depth," *China Patent*, ZL200010007508.X.
-
-(\* denotes supervisor)
+- *2024*, Meng Yang\*, **Haotian Wang**, and Nanning Zheng, "Zero-Shot Depth Completion Based on Scale Propagation Normalization Layer: Method and System", *China Patent*, 2023101807430.
+- *2023*, Meng Yang\*, **Haotian Wang**, and Nanning Zheng, "Generalizable Depth Map Inference with Single-View: Method and System," *China Patent*, 2023101807430.
+- *2021*, Meng Yang\*, **Haotian Wang**, and Nanning Zheng, "Depth Map Structure Restoration Method Based on the Fully Connected Conditional Random Field Model," *China Patent*, ZL202111057715.2.
+- *2020*, Meng Yang\*, **Haotian Wang**, and Nanning Zheng, "An Iterative Method of Depth Map Structure Restoration based on Structural Similarity between RGB and Depth," *China Patent*, ZL200010007508.X.
 
 # 🔨 Projects
 - *2022.12 - 2025.12*, Core member, "A General Model of Single-View 3D Perception for Multi-Modal Autonomous Agents", National Natural Science Foundation of China
