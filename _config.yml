@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haotian Wang"
-description              : "PhD candidate in XJTU (will complete in 06/2025). Focusing on Computer Vision & 3D Vision"
+description              : "PhD Candidate at XJTU (expected graduation: June 2025), specializing in Computer Vision and 3D Vision."
 repository               : "Wang-xjtu/Wang-xjtu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Haotian Wang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/haotian.png"
   bio              : "Xi’an Jiaotong University (XJTU)"
   location         : "Xi'an, China"
   employer         :
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/63/11345-9.html"
   orcid            : "https://orcid.org/0000-0002-4385-735X"
   pinterest        :
   soundcloud       :
