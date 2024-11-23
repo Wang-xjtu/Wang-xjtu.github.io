@@ -21,7 +21,7 @@ I am a PhD candidate at the [National Key Laboratory of Human-Machine Hybrid Aug
 
 My research interest includes computer vision, 3D vision, multi-model vision, and scene depth perception.
 
-**I am currently seeking a <font color="red">postdoctoral position</font>**. If my profile aligns with your interests, please feel free to contact me!
+**I am currently seeking a <font color="red">postdoctoral position</font>** (expected graduation: 06/2025). If my profile aligns with your interests, please feel free to contact me!
 
 
 # 🔥 News
