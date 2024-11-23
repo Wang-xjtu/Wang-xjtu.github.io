@@ -86,6 +86,3 @@ My research interest includes computer vision, 3D vision, multi-model vision, an
 - *2023.10* Qianheng Huang Scholarship, XJTU
 - *2023.07* Invited oral presenter, XJTU
 - *2015.11* College Scholarship, [NCEPU](https://english.ncepu.edu.cn/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
