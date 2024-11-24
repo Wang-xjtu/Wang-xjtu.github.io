@@ -73,6 +73,16 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
 </div>
 </div>
 
+# 📕 Patents
+- *2024*, M. Yang\*, **H. Wang**, N. Zheng. Zero-Shot Depth Completion Based on Scale Propagation Normalization Layer: Method and System. *China Patent*, No. 2023101807430.
+- *2023*, M. Yang\*, **H. Wang**, N. Zheng. Generalizable Depth Map Inference with Single-View: Method and System. *China Patent*, No. 2023101807430.
+- *2021*, M. Yang\*, **H. Wang**, N. Zheng. Depth Map Structure Restoration Method based on the Fully Connected Conditional Random Field Model. *China Patent*, No. ZL202111057715.2.
+- *2020*, M. Yang\*, **H. Wang**, N. Zheng. An Iterative Method of Depth Map Structure Restoration based on Structural Similarity between RGB and Depth. *China Patent*, No. ZL200010007508.X.
+
+# 🔨 Projects
+- *2022.12 - 2025.06*, A General Model of Single-View 3D Perception for Multi-Modal Autonomous Agents. *Responsibility: Core Member, Source: The National Natural Science Foundation of China*.
+- *2022.01 - 2023. 12*, A General Depth Perception Model. *Responsibility: Project Leader, Source: The Basic Research Foundation of XJTU*.
+
 # 📖 Educations
 - *2019.09 - 2025.06*, **Ph.D.**, College of Artificial Intelligence, Xi’an Jiaotong University, China. 
 - *2023.12 - 2024.12*, **Joint Ph.D.**, College of Computing and Data Science, Nanyang Technological University, Singapore.
@@ -87,13 +97,3 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
 - *2023.07*, Joint Ph.D. Scholarship, China Scholarship Council (CSC).
 - *2023.07*, Invited Oral Presenter, XJTU.
 - *2015.11*, College Scholarship, [NCEPU](https://english.ncepu.edu.cn/).
-
-# 📕 Patents
-- *2024*, M. Yang\*, **H. Wang**, N. Zheng. Zero-Shot Depth Completion Based on Scale Propagation Normalization Layer: Method and System. *China Patent*, No. 2023101807430.
-- *2023*, M. Yang\*, **H. Wang**, N. Zheng. Generalizable Depth Map Inference with Single-View: Method and System. *China Patent*, No. 2023101807430.
-- *2021*, M. Yang\*, **H. Wang**, N. Zheng. Depth Map Structure Restoration Method based on the Fully Connected Conditional Random Field Model. *China Patent*, No. ZL202111057715.2.
-- *2020*, M. Yang\*, **H. Wang**, N. Zheng. An Iterative Method of Depth Map Structure Restoration based on Structural Similarity between RGB and Depth. *China Patent*, No. ZL200010007508.X.
-
-# 🔨 Projects
-- *2022.12 - 2025.06*, A General Model of Single-View 3D Perception for Multi-Modal Autonomous Agents. *Responsibility: Core Member, Source: The National Natural Science Foundation of China*.
-- *2022.01 - 2023. 12*, A General Depth Perception Model. *Responsibility: Project Leader, Source: The Basic Research Foundation of XJTU*.
