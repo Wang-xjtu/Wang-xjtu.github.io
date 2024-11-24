@@ -74,9 +74,9 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
 </div>
 
 # 📖 Educations
-- *2019.09 - 2025.06*, Ph.D., College of Artificial Intelligence, Xi’an Jiaotong University, China. 
-- *2023.12 - 2024.12*, Joint Ph.D., College of Computing and Data Science, Nanyang Technological University, Singapore.
-- *2013.09 - 2017.06*, B.S., School of Electrical and Electronic Engineering, North China Electric Power University, China.
+- *2019.09 - 2025.06*, **Ph.D.**, College of Artificial Intelligence, Xi’an Jiaotong University, China. 
+- *2023.12 - 2024.12*, **Joint Ph.D.**, College of Computing and Data Science, Nanyang Technological University, Singapore.
+- *2013.09 - 2017.06*, **B.S.**, School of Electrical and Electronic Engineering, North China Electric Power University, China.
 
 # 🏅 Honors and Awards
 - *2024.10*, Outstanding Graduate Student, XJTU.
@@ -95,5 +95,5 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
 - *2020*, Meng Yang\*, **Haotian Wang**, Nanning Zheng. An Iterative Method of Depth Map Structure Restoration based on Structural Similarity between RGB and Depth. *China Patent*, No. ZL200010007508.X.
 
 # 🔨 Projects
-- *2022.12 - 2025.06*, A General Model of Single-View 3D Perception for Multi-Modal Autonomous Agents. *Responsibility*: Core Member, *Source*: The National Natural Science Foundation of China.
-- *2022.01 - 2023. 12*, A General Depth Perception Model. *Responsibility*: Project Leader, *Source*: The Basic Research Foundation of XJTU.
+- *2022.12 - 2025.06*, A General Model of Single-View 3D Perception for Multi-Modal Autonomous Agents. *Responsibility: Core Member, Source: The National Natural Science Foundation of China*.
+- *2022.01 - 2023. 12*, A General Depth Perception Model. *Responsibility: Project Leader, Source: The Basic Research Foundation of XJTU*.
