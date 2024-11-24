@@ -88,7 +88,7 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
 - *2023.07*, Invited Oral Presenter, XJTU.
 - *2015.11*, College Scholarship, [NCEPU](https://english.ncepu.edu.cn/).
 
-- # 📕 Patents
+# 📕 Patents
 - *2024*, M. Yang\*, **H. Wang**, N. Zheng. Zero-Shot Depth Completion Based on Scale Propagation Normalization Layer: Method and System. *China Patent*, No. 2023101807430.
 - *2023*, M. Yang\*, **H. Wang**, N. Zheng. Generalizable Depth Map Inference with Single-View: Method and System. *China Patent*, No. 2023101807430.
 - *2021*, M. Yang\*, **H. Wang**, N. Zheng. Depth Map Structure Restoration Method based on the Fully Connected Conditional Random Field Model. *China Patent*, No. ZL202111057715.2.
