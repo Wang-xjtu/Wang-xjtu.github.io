@@ -89,10 +89,10 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
 - *2015.11*, College Scholarship, [NCEPU](https://english.ncepu.edu.cn/).
 
 # 📕 Patents
-- *2024*, Meng Yang\*, **Haotian Wang**, Nanning Zheng. Zero-Shot Depth Completion Based on Scale Propagation Normalization Layer: Method and System. *China Patent*, Patent No. 2023101807430.
-- *2023*, Meng Yang\*, **Haotian Wang**, Nanning Zheng. Generalizable Depth Map Inference with Single-View: Method and System. *China Patent*, Patent No. 2023101807430.
-- *2021*, Meng Yang\*, **Haotian Wang**, Nanning Zheng. Depth Map Structure Restoration Method based on the Fully Connected Conditional Random Field Model. *China Patent*, Patent No. ZL202111057715.2.
-- *2020*, Meng Yang\*, **Haotian Wang**, Nanning Zheng. An Iterative Method of Depth Map Structure Restoration based on Structural Similarity between RGB and Depth. *China Patent*, Patent No. ZL200010007508.X.
+- *2024*, Meng Yang\*, **Haotian Wang**, Nanning Zheng. Zero-Shot Depth Completion Based on Scale Propagation Normalization Layer: Method and System. *China Patent*, No. 2023101807430.
+- *2023*, Meng Yang\*, **Haotian Wang**, Nanning Zheng. Generalizable Depth Map Inference with Single-View: Method and System. *China Patent*, No. 2023101807430.
+- *2021*, Meng Yang\*, **Haotian Wang**, Nanning Zheng. Depth Map Structure Restoration Method based on the Fully Connected Conditional Random Field Model. *China Patent*, No. ZL202111057715.2.
+- *2020*, Meng Yang\*, **Haotian Wang**, Nanning Zheng. An Iterative Method of Depth Map Structure Restoration based on Structural Similarity between RGB and Depth. *China Patent*, No. ZL200010007508.X.
 
 # 🔨 Projects
 - *2022.12 - 2025.06*, A General Model of Single-View 3D Perception for Multi-Modal Autonomous Agents. *Responsibility*: Core Member, *Source*: The National Natural Science Foundation of China.
