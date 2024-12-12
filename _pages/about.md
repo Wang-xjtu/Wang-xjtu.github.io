@@ -25,11 +25,12 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted in T-PAMI!
 - *2024.11*: &nbsp;🎉🎉 I've created my academic homepage.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2024 (major revision)</div><img src='images/SPNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2025</div><img src='images/SPNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Scale Propagation Network for Generalizable Depth Completion](https://arxiv.org/abs/2410.18408)
