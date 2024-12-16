@@ -96,5 +96,5 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
 - *2020*, M. Yang\*, **H. Wang**, N. Zheng. An Iterative Method of Depth Map Structure Restoration based on Structural Similarity between RGB and Depth. *China Patent*, No. ZL200010007508.X.
 
 # 🔨 Projects
-- *2022.12 - 2025.06*, A General Model of Single-View 3D Perception for Multi-Modal Autonomous Agents. *Responsibility: Core Member, Source: No. 62373298, The National Natural Science Foundation of China*.
-- *2022.01 - 2023. 12*, A General Depth Perception Model. *Responsibility: Project Leader, Source: No. xzy022022061, The Basic Research Foundation of XJTU*.
+- *2022.12 - 2025.06*, A General Model of Single-View 3D Perception for Multi-Modal Autonomous Agents. Responsibility: *Core Member*, Source: *No. 62373298, The National Natural Science Foundation of China*.
+- *2022.01 - 2023. 12*, A General Depth Perception Model. Responsibility: *Project Leader*, Source: *No. xzy022022061, The Basic Research Foundation of XJTU*.
