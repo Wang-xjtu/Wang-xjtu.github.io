@@ -21,7 +21,7 @@ I am a Ph.D. candidate at the [National Key Laboratory of Human-Machine Hybrid A
 
 My research interests include computer vision, 3D vision, multi-modal vision, and scene depth perception. I aim to develop advanced techniques that enable autonomous agents to effectively perceive real-world environments, particularly in dynamic and open settings.
 
-**I am currently seeking a <font color="red">postdoctoral position</font>** (expected graduation: 06/2025). If my profile aligns with your interests, please feel free to contact me! Here is [My CV 🏠](../images/CV-Haotian-Wang-XJTU.pdf).
+**I am currently seeking a <font color="red">postdoctoral position</font>** (expected graduation: 06/2025). If my profile aligns with your interests, please feel free to contact me! Here is [My CV 🏠](../docs/CV-haotian.pdf).
 
 
 # 🔥 News
@@ -33,7 +33,7 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2025</div><img src='images/SPNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Scale Propagation Network for Generalizable Depth Completion](https://arxiv.org/abs/2410.18408)
+[Scale Propagation Network for Generalizable Depth Completion](https://ieeexplore.ieee.org/document/10786388)
 
 **Haotian Wang**, Meng Yang, et al.
 
