@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/1bfff371-4d32-4309-9c52-eb60d11dfe01)---
 permalink: /
 title: ""
 excerpt: ""
@@ -85,7 +85,7 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
 - *2024.01*, Academic Star of the [IAIR](http://www.aiar.xjtu.edu.cn/) (Top 1%), XJTU.
 - *2023.10*, Academic Scholarship (Top 5%, 1st Place), XJTU.
 - *2023.10*, Qianheng Huang Scholarship, XJTU.
-- *2023.07*, Joint Ph.D. Scholarship, China Scholarship Council (CSC).
+- *2023.07*, Joint Ph.D. Scholarship (6700 people in China), China Scholarship Council (CSC).
 - *2023.07*, Invited Oral Presenter, XJTU.
 - *2015.11*, College Scholarship, [NCEPU](https://english.ncepu.edu.cn/).
 
@@ -96,5 +96,5 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
 - *2020*, M. Yang\*, **H. Wang**, N. Zheng. An Iterative Method of Depth Map Structure Restoration based on Structural Similarity between RGB and Depth. *China Patent*, No. ZL200010007508.X.
 
 # 🔨 Projects
-- *2022.12 - 2025.06*, A General Model of Single-View 3D Perception for Multi-Modal Autonomous Agents. *Responsibility: Core Member, Source: The National Natural Science Foundation of China*.
-- *2022.01 - 2023. 12*, A General Depth Perception Model. *Responsibility: Project Leader, Source: The Basic Research Foundation of XJTU*.
+- *2022.12 - 2025.06*, A General Model of Single-View 3D Perception for Multi-Modal Autonomous Agents. *Responsibility: Core Member, Source: No. 62373298, The National Natural Science Foundation of China*.
+- *2022.01 - 2023. 12*, A General Depth Perception Model. *Responsibility: Project Leader, Source: No. xzy022022061, The Basic Research Foundation of XJTU*.
