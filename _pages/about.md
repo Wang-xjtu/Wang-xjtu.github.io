@@ -35,7 +35,7 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
 
 [Scale Propagation Network for Generalizable Depth Completion](https://ieeexplore.ieee.org/document/10786388)
 
-**Haotian Wang**, Meng Yang, et al.
+**H. Wang**, M. Yang, X. Zheng, and G. Hua
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> SPNet is the first to carefully analyze the significance of scale propagation property in generalizable depth completion. To satisfy this property, we introduce SP-Norm, a novel normalization layer that enhances generalizability and ensures efficient convergence. Coupled with our insights for ConvNeXt V2, SPNet achieves impressive generalization across a wide range of unseen scenarios. [**Project Page**](https://github.com/Wang-xjtu/SPNet)
 </div>
@@ -46,7 +46,7 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
   
 [G2-MonoDepth: A General Framework of Generalized Depth Map Inference from Monocular RGB-X Data](https://ieeexplore.ieee.org/abstract/document/10373158)
 
-**Haotian Wang**, Meng Yang, Nanning Zheng
+**H. Wang**, M. Yang, N. Zheng
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> G2-MonoDepth investigated a novel unified task of single-view depth inference for various robots, which may be equipped with a range of sensors, such as cameras, LiDAR, ToF, or their combinations, and operate in diverse indoor and outdoor environments. Our work introduced a general and generalized framework to robustly perform in this challenging scenario by comprehensively exploring data preparation, network architecture, and loss function. [**Project Page**](https://github.com/Wang-xjtu/G2-MonoDepth)
 </div>
@@ -57,7 +57,7 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
   
 [RGB-Guided Depth Map Recovery by Two-Stage Coarse-to-Fine Dense CRF Models](https://ieeexplore.ieee.org/abstract/document/10043681)
 
-**Haotian Wang**, Meng Yang, Ce Zhu, Nanning Zheng
+**H. Wang**, M. Yang, C. Zhu, N. Zheng
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> This work aims to effectively eliminate large erroneous regions in depth maps captured by low-cost depth sensors without training. It is achieved by an optimization-based approach employing the fully connected conditional random field (dense CRF) model to integrate local and global contexts from RGB-D pairs in a coarse-to-fine manner, achieving superior performance and even outperforming learning-based techniques. [**Project Page**](https://github.com/Wang-xjtu/C2F-DenseCRF-Depth)
 </div>
@@ -68,7 +68,7 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
   
 [Depth Map Recovery based on a Unified Depth Boundary Distortion Model](https://ieeexplore.ieee.org/abstract/document/9940165)
 
-**Haotian Wang**, Meng Yang, Xuguang Lan, Ce Zhu, Nanning Zheng
+**H. Wang**, M. Yang, X. Lan, C. Zhu, N. Zheng
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> This work is the first to establish a unified model capable of identifying all kinds of distorted boundaries in depth maps, including missing, fake, and misaligned boundaries. Leveraging this unified model, we developed a filter-based pipeline to iteratively optimize low-quality depth maps, resulting in high-quality depth maps with accurate boundaries. [**Project Page**](https://github.com/Wang-xjtu/Unified_DBDM)
 </div>
