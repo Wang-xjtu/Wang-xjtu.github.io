@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at the [National Key Laboratory of Human-Machine Hybrid Augmented Intelligence](http://www.aiar.xjtu.edu.cn/), College of Artificial Intelligence, Xi’an Jiaotong University (西安交通大学人工智能学院), China, under the supervision of [Prof. Meng Yang](https://gr.xjtu.edu.cn/en/web/mengyang). I am also a joint Ph.D. student at the [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Nanyang Technological University (南洋理工大学计算与数据科学学院), Singapore, supervised by [Prof. Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/).
+I am a Ph.D. candidate at the [National Key Laboratory of Human-Machine Hybrid Augmented Intelligence](http://www.aiar.xjtu.edu.cn/), College of Artificial Intelligence, Xi’an Jiaotong University (西安交通大学人工智能学院), China, under the supervision of [Prof. Meng Yang](https://gr.xjtu.edu.cn/en/web/mengyang). I am also a visiting Ph.D. student at the [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Nanyang Technological University (南洋理工大学计算与数据科学学院), Singapore, supervised by [Prof. Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/).
 
 My research interests include computer vision, 3D vision, multi-modal vision, and scene depth perception. I aim to develop advanced techniques that enable autonomous agents to effectively perceive real-world environments, particularly in dynamic and open settings.
 
@@ -76,7 +76,7 @@ My research interests include computer vision, 3D vision, multi-modal vision, an
 
 # 📖 Educations
 - *2019.09 - 2025.06*, **Ph.D.**, College of Artificial Intelligence, Xi’an Jiaotong University, China. 
-- *2023.12 - 2024.12*, **Joint Ph.D.**, College of Computing and Data Science, Nanyang Technological University, Singapore.
+- *2023.12 - 2024.12*, **Visiting Ph.D.**, College of Computing and Data Science, Nanyang Technological University, Singapore.
 - *2013.09 - 2017.06*, **B.S.**, School of Electrical and Electronic Engineering, North China Electric Power University, China.
 
 # 🏅 Honors and Awards
