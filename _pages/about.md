@@ -26,7 +26,6 @@ My research interests include 3D vision, multi-modal vision, and scene depth per
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted in T-PAMI!
-- *2024.11*: &nbsp;🎉🎉 I've created my academic homepage.
 
 # 📝 Publications 
 
