@@ -79,6 +79,7 @@ My research interests include 3D vision, multi-modal vision, and scene depth per
 - *2013.09 - 2017.06*, **B.S.**, School of Electrical and Electronic Engineering, North China Electric Power University, China.
 
 # 🏅 Honors and Awards
+- *2025.01*, Academic Star of the [IAIR](http://www.aiar.xjtu.edu.cn/) (Top 1%), XJTU.
 - *2024.10*, Outstanding Graduate Student, XJTU.
 - *2024.09*, Baosheng Hu Scholarship (Top 5%, 1st Place), XJTU.
 - *2024.01*, Academic Star of the [IAIR](http://www.aiar.xjtu.edu.cn/) (Top 1%), XJTU.
