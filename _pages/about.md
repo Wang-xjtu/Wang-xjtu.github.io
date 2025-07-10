@@ -99,8 +99,6 @@ My research interests lie in spatial perception and understanding. I aim to deve
 - *2023.10*, Academic Scholarship (Top 5%, 1st Place), XJTU.
 - *2023.10*, Qianheng Huang Scholarship, XJTU.
 - *2023.07*, Joint Ph.D. Scholarship (6700 people in China), China Scholarship Council (CSC).
-- *2023.07*, Invited Oral Presenter, XJTU.
-- *2015.11*, College Scholarship, [NCEPU](https://english.ncepu.edu.cn/).
 
 # 📕 Patents
 - *2024*, M. Yang\*, **H. Wang**, N. Zheng. Zero-Shot Depth Completion Based on Scale Propagation Normalization Layer: Method and System. *China Patent*, No. 2023101807430.
