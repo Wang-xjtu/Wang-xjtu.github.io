@@ -21,7 +21,7 @@ I am currently a postdoctoral researcher at the [Intelligent Transportation (Sys
 I received my Ph.D. from the [National Key Laboratory of Human-Machine Hybrid Augmented Intelligence](http://www.aiar.xjtu.edu.cn/), Xi’an Jiaotong University.
 During my Ph.D., I was also a visiting student at the [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Nanyang Technological University, under the supervision of [Prof. Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/).
 
-My research interests lie in computer vision, 3D vision, and spatial perception and understanding. I aim to develop advanced techniques that enable autonomous agents to perceive and understand real-world environments effectively, especially in dynamic and open-world settings.
+My research interests lie in spatial perception and understanding. I aim to develop advanced techniques that enable autonomous agents to perceive and understand real-world environments effectively, especially in dynamic and open-world settings.
 
 
 # 🔥 News
