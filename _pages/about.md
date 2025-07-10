@@ -17,15 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at the [National Key Laboratory of Human-Machine Hybrid Augmented Intelligence](http://www.aiar.xjtu.edu.cn/), Xi’an Jiaotong University, under the supervision of [Prof. Meng Yang](https://gr.xjtu.edu.cn/en/web/mengyang). I was a visiting Ph.D. student at the [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Nanyang Technological University, supervised by [Prof. Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/).
+I am currently a postdoctoral researcher at the [Intelligent Transportation (Systems Hub)](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/), The Hong Kong University of Science and Technology (Guangzhou).
+I received my Ph.D. from the [National Key Laboratory of Human-Machine Hybrid Augmented Intelligence](http://www.aiar.xjtu.edu.cn/), Xi’an Jiaotong University.
+During my Ph.D., I was also a visiting student at the [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Nanyang Technological University, under the supervision of [Prof. Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/).
 
-My research interests include computer vision, 3D vision, and spatial perception. I aim to develop advanced techniques that enable autonomous agents to effectively perceive real-world environments, particularly in dynamic and open settings.
+My research interests lie in computer vision, 3D vision, and spatial perception and understanding. I aim to develop advanced techniques that enable autonomous agents to perceive and understand real-world environments effectively, especially in dynamic and open-world settings.
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 One paper is accepted in ICCV 2025!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted in T-PAMI!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/SPNet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PacGDC: Label-Efficient Generalizable Depth Completion with Projection Ambiguity and Consistency ](https://ieeexplore.ieee.org/document/10786388)
+
+**H. Wang**, A. Xiao, X. Zhang, M. Yang, and S. Lu
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> PacGDC is a label-efficient technique that enhances data diversity with minimal annotation effort for generalizable depth completion. It builds on novel insights into inherent ambiguities and consistencies in object shapes and positions during 2D-to-3D projection, allowing the synthesis of numerous pseudo geometries for the same visual scene. These insights contribute to the model’s strong generalizability across diverse scene semantics/scales and depth sparsity/patterns under both zero-/few-shot settings. [**Project Page**](https://github.com/Wang-xjtu/PacGDC)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2025</div><img src='images/SPNet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -77,8 +91,9 @@ My research interests include computer vision, 3D vision, and spatial perception
 - *2013.09 - 2017.06*, **B.S.**, School of Electrical and Electronic Engineering, North China Electric Power University, China.
 
 # 🏅 Honors and Awards
+- *2025.06*, Outstanding Graduate, XJTU.
 - *2025.01*, Academic Star of the [IAIR](http://www.aiar.xjtu.edu.cn/) (Top 1%), XJTU.
-- *2024.10*, Outstanding Graduate Student, XJTU.
+- *2024.10*, Excellent Postgraduate Student, XJTU.
 - *2024.09*, Baosheng Hu Scholarship (Top 5%, 1st Place), XJTU.
 - *2024.01*, Academic Star of the [IAIR](http://www.aiar.xjtu.edu.cn/) (Top 1%), XJTU.
 - *2023.10*, Academic Scholarship (Top 5%, 1st Place), XJTU.
