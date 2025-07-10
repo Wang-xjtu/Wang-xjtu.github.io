@@ -86,9 +86,9 @@ My research interests lie in spatial perception and understanding. I aim to deve
 </div>
 
 # 📖 Educations
-- *2019.09 - 2025.06*, **Ph.D.**, College of Artificial Intelligence, Xi’an Jiaotong University, China. 
-- *2023.12 - 2024.12*, **Visiting Ph.D.**, College of Computing and Data Science, Nanyang Technological University, Singapore.
-- *2013.09 - 2017.06*, **B.S.**, School of Electrical and Electronic Engineering, North China Electric Power University, China.
+- *2019.09 - 2025.06*, **Ph.D.**, College of Artificial Intelligence, Xi’an Jiaotong University (XJTU), China. 
+- *2023.12 - 2024.12*, **Visiting Ph.D.**, College of Computing and Data Science, Nanyang Technological University (NTU), Singapore.
+- *2013.09 - 2017.06*, **B.S.**, School of Electrical and Electronic Engineering, North China Electric Power University (NCEPU), China.
 
 # 🏅 Honors and Awards
 - *2025.06*, Outstanding Graduate, XJTU.
