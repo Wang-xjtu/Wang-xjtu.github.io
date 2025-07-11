@@ -33,7 +33,7 @@ My research interests lie in spatial perception and understanding. I aim to deve
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/PacGDC.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PacGDC: Label-Efficient Generalizable Depth Completion with Projection Ambiguity and Consistency ](https://ieeexplore.ieee.org/document/10786388)
+[PacGDC: Label-Efficient Generalizable Depth Completion with Projection Ambiguity and Consistency ](https://arxiv.org/abs/2507.07374)
 
 **H. Wang**, A. Xiao, X. Zhang, M. Yang, and S. Lu
 
