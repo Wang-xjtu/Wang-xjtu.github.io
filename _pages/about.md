@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral researcher at the [Intelligent Transportation (Systems Hub)](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/), The Hong Kong University of Science and Technology (Guangzhou).
+I am currently a postdoctoral researcher at the [Thrust of Intelligent Transportation (Systems Hub)](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/), The Hong Kong University of Science and Technology (Guangzhou).
 I received my Ph.D. from the [National Key Laboratory of Human-Machine Hybrid Augmented Intelligence](http://www.aiar.xjtu.edu.cn/), Xi’an Jiaotong University.
 During my Ph.D., I was also a visiting student at the [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Nanyang Technological University, under the supervision of [Prof. Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/).
 
