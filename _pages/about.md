@@ -31,7 +31,7 @@ Before that, I received my Ph.D. from the [College of Artificial Intelligence](h
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/unit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2026</div><img src='images/unit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UniT: Unified Geometry Learning with Group Autoregressive Transformer](https://arxiv.org/abs/2605.21131)
