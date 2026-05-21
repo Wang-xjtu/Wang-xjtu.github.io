@@ -21,7 +21,7 @@ I am currently a postdoctoral researcher with the [Thrust of Intelligent Transpo
 
 Before that, I received my Ph.D. from the [College of Artificial Intelligence](http://www.aiar.xjtu.edu.cn/), Xi’an Jiaotong University, under the supervision of [Prof. Meng Yang](http://www.lianpp.com/xjtu/mu_gr/web/mengyang). During my Ph.D., I was also a visiting student at the [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Nanyang Technological University, supervised by [Prof. Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/).
 
-My research interests lie in spatial perception and understanding. I aim to develop advanced techniques that enable autonomous agents to perceive and understand real-world environments effectively, especially in dynamic and open-world settings.
+🔭 My research interests lie in spatial perception and understanding. I aim to develop advanced techniques that enable autonomous agents to perceive and understand real-world environments effectively, especially in dynamic and open-world settings.
 
 
 # 🔥 News
